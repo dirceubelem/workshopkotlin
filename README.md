@@ -15,11 +15,11 @@ Configurações gradle
     
     
     
-import okhttp3.OkHttpClient
-import okhttp3.logging.HttpLoggingInterceptor
-import retrofit2.Retrofit
-import retrofit2.converter.gson.GsonConverterFactory
-import java.util.concurrent.TimeUnit
+import okhttp3.OkHttpClient<br/>
+import okhttp3.logging.HttpLoggingInterceptor<br/>
+import retrofit2.Retrofit<br/>
+import retrofit2.converter.gson.GsonConverterFactory<br/>
+import java.util.concurrent.TimeUnit<br/>
 
 class RetrofitInitializer {
 
